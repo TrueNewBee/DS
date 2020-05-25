@@ -3,3 +3,6 @@
 
 
 git remote add origin https://github.com/TrueNewBee/DS.git
+
+
+---------------越努力,越幸运!
